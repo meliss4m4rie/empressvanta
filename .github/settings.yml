@@ -1,0 +1,33 @@
+# Configuration for the Probot Settings app
+repository:
+  # General repository metadata
+  description: "My custom Neocities web application and site code."
+  homepage: "https://empressvanta.neocities.org"
+  topics:
+    - neocities
+    - web-app
+    - pixel-art
+
+  # Enable/disable repository features
+  has_issues: true
+  has_projects: false
+  has_wiki: false
+  has_downloads: true
+
+  # Merge strategy options
+  allow_squash_merge: true
+  allow_merge_commit: true
+  allow_rebase_merge: false
+  delete_branch_on_merge: true
+
+# Custom issue/PR labels
+labels:
+  - name: bug
+    color: 'd73a4a'
+    description: "Something isn't working"
+  - name: enhancement
+    color: 'a2eeef'
+    description: "New feature or asset addition"
+  - name: assets
+    color: '7057ff'
+    description: "Dollz assets or media files"
