@@ -1,6 +1,8 @@
 # Dollz Makers Archive
 
-A curated collection of retro-style pixel dollmaker assets, layouts, and components organized by style, theme, and body type.
+<p>Retro pixel dollmaker assets, layouts, and components organized by style and body type.</p>
+
+
 
 ---
 
