@@ -4,16 +4,16 @@
 
 ---
 
-## 📂 Directory Index 
+## 📂 Directory Index & Asset Dimensions
 
-| Category | Description |
-| :--- | :--- |
-| 🔲 **Buttons** | 88x31 site buttons & webring badges |
-| 💌 **Stamps** | Pixel stamps & userbar graphics |
-| ✨ **Blinkies** | Animated Y2K pixel banners |
-| 🎀 **Dollz** | Pixel doll bases & assets |
-| 🌌 **Backgrounds** | Tiling pixel patterns & textures |
-| 🕹️ **Icons** | Mini pixel icons, cursor sets, & UI graphics |
+| Category | Standard Dimensions | Description |
+| :--- | :--- | :--- |
+| 🔲 **Buttons** | `88x31 px` | Site links, webrings, & button walls |
+| 💌 **Stamps** | `99x56 px` | Pixel stamps & userbar graphics |
+| ✨ **Blinkies** | `150x20 px` – `200x20 px` | Animated Y2K flashing/scrolling text banners |
+| 🎀 **Dollz** | `100x200 px` – `300x400 px` | Pixel doll bases, sprites, & clothing assets |
+| 🌌 **Backgrounds** | `8x8 px` – `64x64 px` (Tiling) | Seamless pixel patterns & background textures |
+| 🕹️ **Icons** | `16x16 px` – `32x32 px` | Mini pixel icons, cursors, & UI decorations |
 
 ---
 
