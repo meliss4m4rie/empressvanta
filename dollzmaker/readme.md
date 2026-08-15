@@ -17,38 +17,19 @@ dollzmakers/
 └── unique/
 ```
 
-
 ---
 
 ## 🏷️ Asset Categories
 
-* 🧁 **Chubby**
-* Custom base figures, tops, bottoms, and accessories tailored for full-figured doll templates.
+* 🧁 **Chubby:** <small>Custom base figures, tops, bottoms, and accessories tailored for full-figured doll templates.</small>
+* 👗 **Designer:** <small>Classic Designer-style pixel doll bases, outfits, hair, and traditional layering assets.</small>
+* 👑 **Empress Vanta Dollmaker:** <small>Main project files, interface assets, custom UI themes, and canvas scripts for the core Empress Vanta doll building web application.</small>
+* 🖤 **Goth / Punk:** <small>Dark aesthetic garments, studded belts, fishnets, heavy boots, alternative hair, and graphic tees.</small>
+* 🍼 **Pregnant:** <small>Specialized body bases, maternity wear, and layerable accessories for expecting doll templates.</small>
+* ✨ **Shuni:** <small>Classic Shuni-style pixel doll bases, palette-matched outfits, and modular layer sets.</small>
+* 💎 **Unique:** <small>Classic Unique-style pixel doll bases, traditional clothing sets, and retro dollmaker components.</small>
 
-
-* 👗 **Designer**
-* Classic Designer-style pixel doll bases, outfits, hair, and traditional layering assets.
-
-
-* 👑 **Empress Vanta Dollmaker**
-* Main project files, interface assets, custom UI themes, and canvas scripts for the core Empress Vanta doll building web application.
-
-
-* 🖤 **Goth / Punk**
-* Dark aesthetic garments, studded belts, fishnets, heavy boots, alternative hair, and graphic tees.
-
-
-* 🍼 **Pregnant**
-* Specialized body bases, maternity wear, and layerable accessories for expecting doll templates.
-
-
-* ✨ **Shuni**
-* Classic Shuni-style pixel doll bases, palette-matched outfits, and modular layer sets.
-
-
-* 💎 **Unique**
-* Classic Unique-style pixel doll bases, traditional clothing sets, and retro dollmaker components.
-
+<center><sub><small>*(More to be added on later)*</small></sub></center>
 
 
 ---
@@ -64,7 +45,5 @@ dollzmakers/
 ## 📜 License & Protocol
 
 This archive is maintained in accordance with standard open-source and free asset management guidelines. All assets are preserved for retro web design, personal projects, and digital dollmaking community restoration.
-
-*(More to be added on later)*
 
 ```
