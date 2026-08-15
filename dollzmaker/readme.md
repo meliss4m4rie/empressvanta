@@ -45,5 +45,3 @@ dollzmakers/
 ## 📜 License & Protocol
 
 This archive is maintained in accordance with standard open-source and free asset management guidelines. All assets are preserved for retro web design, personal projects, and digital dollmaking community restoration.
-
-```
