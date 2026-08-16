@@ -53,4 +53,4 @@ A curated collection of Y2K pixel art, buttons, stamps, blinkies, and site graph
  * website-assets/ — Miscellaneous site graphics, layout elements, & web design assets.
 
 📄 Y2K Layout Reference (raw-y2k-css.md)
-*Pristine, untouched archive of the classic Y2K "Pink Internet Diary" profile layout originally crafted by nyctokol. Archived for personal open-source use, HTML/CSS layout reference, and base theme customization..
+* Pristine, untouched archive of the classic Y2K "Pink Internet Diary" profile layout originally crafted by nyctokol. Archived for personal open-source use, HTML/CSS layout reference, and base theme customization..
