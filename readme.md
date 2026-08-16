@@ -28,6 +28,7 @@ empressvanta/
 ├── 📄 LICENSE               # License terms and open-source permissions
 ├── 📄 raw-y2k-css.md        # Unedited Y2K Pink Internet Diary layout source code
 └── 📄 readme.md             # Main repository documentation
+```
 
 ### 📂 Subdirectories & Core Content:
 
