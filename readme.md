@@ -50,16 +50,3 @@ A curated collection of Y2K pixel art, buttons, stamps, blinkies, and site graph
  * website-assets/ — Miscellaneous site graphics, layout elements, & web design assets.
 📄 Y2K Layout Reference (raw-y2k-css.md)
  * Pristine, untouched archive of the classic Y2K "Pink Internet Diary" profile layout originally crafted by nyctokol. Archived for personal open-source use, HTML/CSS layout reference, and base theme customization.
-
-
-## 📁 Root Directory Index
-
-```text
-empressvanta/
-├── 📁 .github/              # GitHub workflows and repository settings
-├── 📁 dollzmaker/           # Pixel dollmaker asset archive and subcategories
-├── 📁 graphics-archive/     # Y2K pixel art, banners, stamps, and UI graphics
-├── 📄 .gitignore            # Git ignore configurations
-├── 📄 LICENSE               # License terms and open-source permissions
-├── 📄 raw-y2k-css.md        # Unedited Y2K Pink Internet Diary layout source code
-└── 📄 readme.md             # Main repository documentation
