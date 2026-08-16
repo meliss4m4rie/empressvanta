@@ -29,7 +29,8 @@ empressvanta/
 ├── 📄 raw-y2k-css.md        # Unedited Y2K Pink Internet Diary layout source code
 └── 📄 readme.md             # Main repository documentation
 
-📂 Subdirectories & Core Contents
+### 📂 Subdirectories & Core Content:
+
 🎨 Dollmaker Archive (/dollzmaker/)
 Contains retro pixel dollmaker assets, layouts, and components organized by style and body type:
  * chubby/ — Custom base figures, tops, bottoms, and accessories tailored for full-figured doll templates.
@@ -39,6 +40,7 @@ Contains retro pixel dollmaker assets, layouts, and components organized by styl
  * pregnant/ — Specialized body bases, maternity wear, and layerable accessories for expecting doll templates.
  * shuni/ — Classic Shuni-style pixel doll bases, palette-matched outfits, and modular layer sets.
  * unique/ — Unique-style pixel doll bases, traditional clothing sets, and retro dollmaker components.
+
 👾 Pixel Graphics Archive (/graphics-archive/)
 A curated collection of Y2K pixel art, buttons, stamps, blinkies, and site graphics preserved for Neocities:
  * backgrounds/ — Seamless pixel patterns & background textures (8x8 px – 64x64 px).
