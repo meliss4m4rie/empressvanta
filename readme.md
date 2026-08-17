@@ -1,7 +1,9 @@
 
 # Empress Vanta Repository
 
-An archive for web applications, retro Y2K graphics, dollmaker assets, and Neocities site files.
+* An archive for web applications, retro Y2K graphics, dollmaker assets, and Neocities site files.
+
+* [GOTH PUNK DOLLMAKER](https://empressvanta.neocities.org/dollmaker) IS ACTIVE! - currently deleting duplicate asset images!
 
 
 ## 📋 To-Do List
