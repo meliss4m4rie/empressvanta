@@ -3,12 +3,13 @@
 
 * An archive for web applications, retro Y2K graphics, dollmaker assets, and Neocities site files.
 
-* [GOTH PUNK DOLLMAKER](https://empressvanta.neocities.org/dollmaker) IS ACTIVE! - currently deleting duplicate asset images!
+* [GOTH PUNK DOLLMAKER](https://empressvanta.neocities.org/dollmaker) IS ACTIVE!
+* [GOTH ALT DOLLMAKER](https://empressvanta.neocities.org/dollmakergothalt) IS ALSO ACTIVE!
 
 
 ## 📋 To-Do List
 
-<small>⚡ <em>Status: Separating assets while finishing downloads.</em></small>
+<small>⚡ <em>Status: Separating assets while finishing downloads. Also working on apps aswell</em></small>
 
 - [x] 📥 Download all dollz assets
 - [ ] 🗂️ Separate dollz assets
@@ -16,6 +17,7 @@
 - [ ] 🛠️ Fix [Dollmaker](https://empressvanta.neocities.org/dollmaker)
   > ℹ️ *Dollmaker is currently active with minimal assets.*
 - [ ] 🪆✨ Create dollmakers on [Empress Vanta](https://www.empressvanta.neocities.org)
+- [ ] 📱💻 Create Android and Windows apps including ultimate dollmaker
 
 ---
 
