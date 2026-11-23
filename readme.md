@@ -6,19 +6,21 @@
 - [GOTH PUNK DOLLMAKER](https://empressvanta.neocities.org/dollmaker) IS ACTIVE!
 - [GOTH ALT DOLLMAKER](https://empressvanta.neocities.org/dollmakergothalt) IS ALSO ACTIVE!
 - [DOLLMAKER APPS & RELEASES](./dollmaker-apps/)
-- 💻📱 **Desktop & Mobile Apps:** [Y2K Dollmaker Studio (`.exe` & `.apk`)](./dollmaker-apps/) *(ios app in making)*
+- 💻📱 **Desktop & Mobile Apps:** [Y2K Dollmaker Studio (`.exe` & `.apk`)](./dollmaker-apps/)
+- 🍏 **iOS Build (`v1.0.0`):** [Unsigned `App.app` Archive](https://github.com/meliss4m4rie/y2k-dollmaker-studio-ios/releases/tag/v1.0.0) *(unsigned `.app` bundle—requires macOS + Xcode to sign and install on an iPhone)*
 
 ---
 
 ## 📋 To-Do List
 
-<small>⚡ <em>Status: Separating assets while finishing downloads. Also working on apps aswell</em></small>
+<small>⚡ <em>Status: Separating and uploading dollz assets while releasing and updating apps</em></small>
 
 - [X] 📥 Download all dollz assets
 - [ ] 🗂️ Separate dollz assets
 - [ ] 📤 Upload dollz assets to [GitHub Repository](https://github.com/meliss4m4rie/dollz-vault) / [Neocities Vault](https://empressvanta.neocities.org/dollmaker)
 - [X] 🪆✨ Create dollmakers on [Empress Vanta](https://www.empressvanta.neocities.org)
 - [X] 📱💻 Create Android and Windows apps including ultimate dollmaker
+- [X] 🍏 Build iOS (`App.app`) release archive (`v1.0.0`)
 
 ---
 
@@ -34,4 +36,3 @@ empressvanta/
 ├── 📄 LICENSE               # License terms and open-source permissions
 ├── 📄 raw-y2k-css.md        # Unedited Y2K Pink Internet Diary layout source code
 └── 📄 readme.md             # Main repository documentation
-```
