@@ -19,6 +19,7 @@ go to releases: https://github.com/meliss4m4rie/empressvanta/releases/tag/v1.0.0
   
 ## Downloads & Related Projects
 - **iOS Build (`v1.0.0` — Unsigned `App.app` archive):** https://github.com/meliss4m4rie/y2k-dollmaker-studio-ios/releases/tag/v1.0.0
+- **Y2K Dollmaker Studio (exe) / Pocket Y2K Dollmaker (apk) (`v1.0.0`)**  https://github.com/meliss4m4rie/empressvanta/releases/tag/v1.0.0
 - **Empress Vanta Web & Dollmaker Repo:** https://github.com/meliss4m4rie/empressvanta
 - **Dollz Vault Assets Repo:** https://github.com/meliss4m4rie/dollz-vault
 - **Empress Vanta Neocities Portal:** https://empressvanta.neocities.org
