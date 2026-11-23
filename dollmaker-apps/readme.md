@@ -20,3 +20,14 @@ The iOS bundle is hosted separately at https://github.com/meliss4m4rie/y2k-dollm
 
 - **Not a direct-install `.ipa`:** Because it is an unsigned `.app` bundle rather than a signed `.ipa`, it cannot be installed directly onto a standard iPhone out of the box.
 - **macOS + Xcode required:** Signing, building, and installing onto an iPhone requires **macOS and Xcode** with your own Apple signing/provisioning setup.
+
+
+## Issues & Bug Reports
+
+Found a bug or something broken? Open an issue in the repository and include:
+- **Platform & build:** Which version or archive you used (Windows, Android APK, or the iOS `v1.0.0` `App.app` archive).
+- **What happened vs. what you expected:** Steps to reproduce, error messages, or screenshots/screen recordings if helpful.
+
+### Before You Open an iOS Issue
+- **Unsigned `.app` bundle:** The iOS release (`App.app`) is built with `CODE_SIGNING_ALLOWED=NO` and is **not** a signed `.ipa`. Direct installation on a standard iPhone without signing/packaging on **macOS + Xcode** is expected to fail and is not a bug.
+- **Signing & Xcode setup:** Apple signing, provisioning profiles, and device deployment require macOS and Xcode with your own Apple signing setup.
