@@ -1,8 +1,9 @@
 # 💻📱🍎 Y2K Dollmaker Studio (Windows `.exe`, Android `.apk` & iOS `.ipa`)
 
-🌐 **Play in Browser:** [https://empressvanta.neocities.org/dollmaker](https://empressvanta.neocities.org/dollmaker)
+🌐 **Play in Browser:** [https://empressvanta.neocities.org/dollmaker](https://empressvanta.neocities.org/dollmaker)  
+📦 **Releases Page:** [https://github.com/meliss4m4rie/empressvanta/releases](https://github.com/meliss4m4rie/empressvanta/releases)
 
-> ⚠️ **Release Status:** *Pending final review before public release. Download links will go live once testing is complete!*
+> ✅ **Release Status:** Windows (`.exe`) and Android (`.apk`) builds are live on [GitHub Releases](https://github.com/meliss4m4rie/empressvanta/releases)! The iOS (`.ipa`) edition is still in progress.
 
 Bring the classic early-2000s drag-and-drop pixel dress-up experience directly to your desktop and mobile devices—100% offline, local-first, and free from ads, accounts, or telemetry.
 
@@ -17,7 +18,7 @@ Bring the classic early-2000s drag-and-drop pixel dress-up experience directly t
   - Curated Y2K, Goth-Punk, Alt, and classic pixel bases & wardrobe sets
   - Retro Y2K desktop interface
   - Local PNG sprite saving and exporting with zero internet connection required
-- **Download:** *Coming soon after review — check the [GitHub Releases](https://github.com/meliss4m4rie/empressvanta/releases) tab*
+- **Download:** Available now on [GitHub Releases](https://github.com/meliss4m4rie/empressvanta/releases)
 
 ### 📱 Pocket Y2K Dollmaker (Android `.apk`)
 - **Format:** Direct Android installation package (`.apk`)
@@ -25,7 +26,7 @@ Bring the classic early-2000s drag-and-drop pixel dress-up experience directly t
   - Touch-optimized drag-and-drop controls built specifically for mobile screens
   - Full offline access to pixel doll bases, outfits, hair, and accessories
   - Save finished dollz straight to your device gallery
-- **Download:** *Coming soon after review — check the [GitHub Releases](https://github.com/meliss4m4rie/empressvanta/releases) tab*
+- **Download:** Available now on [GitHub Releases](https://github.com/meliss4m4rie/empressvanta/releases)
 
 ### 🍎 Pocket Y2K Dollmaker (iOS `.ipa`)
 - **Format:** iOS application archive (`.ipa`) built via GitHub Actions (`macos` runner)
@@ -33,14 +34,14 @@ Bring the classic early-2000s drag-and-drop pixel dress-up experience directly t
   - Touch-optimized drag-and-drop pixel dress-up interface for iPhone and iPad
   - Full offline access to pixel doll bases, outfits, hair, and accessories
   - Local PNG saving/exporting with zero ads or telemetry
-- **Download:** *Coming soon after review — check the [GitHub Releases](https://github.com/meliss4m4rie/empressvanta/releases) tab*
+- **Download:** *Coming soon — will be added to [GitHub Releases](https://github.com/meliss4m4rie/empressvanta/releases) once built*
 
 ---
 
-## 🛠️ Installation Notes (Once Live)
+## 🛠️ Installation Notes
 
-- **Windows:** Download the `.exe` installer from the Releases page. Because indie open-source builds aren't signed with a paid Microsoft certificate, Windows SmartScreen may show a warning—click **More info → Run anyway** to install.
-- **Android:** Download the `.apk` file and enable **Install from Unknown Sources** for your browser or file manager when prompted.
+- **Windows:** Download the `.exe` installer from the [GitHub Releases](https://github.com/meliss4m4rie/empressvanta/releases) page. Because indie open-source builds aren't signed with a paid Microsoft certificate, Windows SmartScreen may show a warning—click **More info → Run anyway** to install.
+- **Android:** Download the `.apk` file from the [GitHub Releases](https://github.com/meliss4m4rie/empressvanta/releases) page and enable **Install from Unknown Sources** for your browser or file manager when prompted.
 - **iOS:** Install via your preferred sideloading method (for unsigned/dev builds) or TestFlight/App Store (for signed builds once an Apple Developer account and signing secrets are configured).
 
 ---
