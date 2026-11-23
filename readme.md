@@ -5,7 +5,8 @@
 - An archive for web applications, retro Y2K graphics, dollmaker assets, and Neocities site files.
 - [GOTH PUNK DOLLMAKER](https://empressvanta.neocities.org/dollmaker) IS ACTIVE!
 - [GOTH ALT DOLLMAKER](https://empressvanta.neocities.org/dollmakergothalt) IS ALSO ACTIVE!
-- 💻📱 **Desktop & Mobile Apps:** [Y2K Dollmaker Studio (`.exe` & `.apk`)](./dollmaker-apps/) *(In Review)*
+- [DOLLMAKER APPS & RELEASES](./dollmaker-apps/)
+- 💻📱 **Desktop & Mobile Apps:** [Y2K Dollmaker Studio (`.exe` & `.apk`)](./dollmaker-apps/) *(ios app in making)*
 
 ---
 
@@ -33,3 +34,4 @@ empressvanta/
 ├── 📄 LICENSE               # License terms and open-source permissions
 ├── 📄 raw-y2k-css.md        # Unedited Y2K Pink Internet Diary layout source code
 └── 📄 readme.md             # Main repository documentation
+```
