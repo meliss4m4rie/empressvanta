@@ -9,7 +9,7 @@ Desktop (Windows) and Android (APK) builds for **Y2K Dollmaker Studio** and **Po
 - **Empress Vanta Neocities Portal:** https://empressvanta.neocities.org
 
 ## Windows
-- Download the Windows release package from this repository's **Releases** tab and extract/run the executable or installer.
+- Download the Windows release package from this repository's **Releases** tab and run the executable! 
 
 ## Android (APK)
 - Download the `.apk` release asset from this repository's **Releases** tab.
