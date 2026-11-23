@@ -1,21 +1,23 @@
-
 # Empress Vanta Repository
 
-* An archive for web applications, retro Y2K graphics, dollmaker assets, and Neocities site files.
+🌐 **Live Web App:** [https://empressvanta.neocities.org/dollmaker](https://empressvanta.neocities.org/dollmaker)
 
-* [GOTH PUNK DOLLMAKER](https://empressvanta.neocities.org/dollmaker) IS ACTIVE!
-* [GOTH ALT DOLLMAKER](https://empressvanta.neocities.org/dollmakergothalt) IS ALSO ACTIVE!
+- An archive for web applications, retro Y2K graphics, dollmaker assets, and Neocities site files.
+- [GOTH PUNK DOLLMAKER](https://empressvanta.neocities.org/dollmaker) IS ACTIVE!
+- [GOTH ALT DOLLMAKER](https://empressvanta.neocities.org/dollmakergothalt) IS ALSO ACTIVE!
+- 💻📱 **Desktop & Mobile Apps:** [Y2K Dollmaker Studio (`.exe` & `.apk`)](./dollmaker-apps/) *(In Review)*
 
+---
 
 ## 📋 To-Do List
 
 <small>⚡ <em>Status: Separating assets while finishing downloads. Also working on apps aswell</em></small>
 
-- [x] 📥 Download all dollz assets
+- [X] 📥 Download all dollz assets
 - [ ] 🗂️ Separate dollz assets
 - [ ] 📤 Upload dollz assets to [GitHub Repository](https://github.com/meliss4m4rie/dollz-vault) / [Neocities Vault](https://empressvanta.neocities.org/dollmaker)
-- [ ] 🪆✨ Create dollmakers on [Empress Vanta](https://www.empressvanta.neocities.org)
-- [ ] 📱💻 Create Android and Windows apps including ultimate dollmaker
+- [X] 🪆✨ Create dollmakers on [Empress Vanta](https://www.empressvanta.neocities.org)
+- [X] 📱💻 Create Android and Windows apps including ultimate dollmaker
 
 ---
 
@@ -24,35 +26,10 @@
 ```text
 empressvanta/
 ├── 📁 .github/              # GitHub workflows and repository settings
+├── 📁 dollmaker-apps/       # Windows (.exe) & Android (.apk) Y2K Dollmaker releases
 ├── 📁 dollzmaker/           # Pixel dollmaker asset archive and subcategories
 ├── 📁 graphics-archive/     # Y2K pixel art, banners, stamps, and UI graphics
 ├── 📄 .gitignore            # Git ignore configurations
 ├── 📄 LICENSE               # License terms and open-source permissions
 ├── 📄 raw-y2k-css.md        # Unedited Y2K Pink Internet Diary layout source code
 └── 📄 readme.md             # Main repository documentation
-```
-
-### 📂 Subdirectories & Core Content:
-
-🎨 Dollmaker Archive (/dollzmaker/)
-Contains retro pixel dollmaker assets, layouts, and components organized by style and body type:
- * chubby/ — Custom base figures, tops, bottoms, and accessories tailored for full-figured doll templates.
- * designer/ — Designer-style pixel doll bases, outfits, hair, and traditional layering assets.
- * empressvanta11dollmaker/ — Main project files, interface assets, custom UI themes, and canvas scripts for the core Empress Vanta doll building web application.
- * goth-punk/ — Dark aesthetic garments, studded belts, fishnets, heavy boots, alternative hair, and graphic tees.
- * pregnant/ — Specialized body bases, maternity wear, and layerable accessories for expecting doll templates.
- * shuni/ — Classic Shuni-style pixel doll bases, palette-matched outfits, and modular layer sets.
- * unique/ — Unique-style pixel doll bases, traditional clothing sets, and retro dollmaker components.
-
-👾 Pixel Graphics Archive (/graphics-archive/)
-A curated collection of Y2K pixel art, buttons, stamps, blinkies, and site graphics preserved for Neocities:
- * backgrounds/ — Seamless pixel patterns & background textures (8x8 px – 64x64 px).
- * blinkies/ — Animated Y2K flashing/scrolling text banners (150x20 px – 200x20 px).
- * buttons/ — Site links, webrings, & button walls (88x31 px).
- * dollz/ — Pixel doll bases, sprites, & clothing assets (100x200 px – 300x400 px).
- * icons/ — Mini pixel icons, cursors, & UI decorations (16x16 px – 32x32 px).
- * stamps/ — Pixel stamps & userbar graphics (99x56 px).
- * website-assets/ — Miscellaneous site graphics, layout elements, & web design assets.
-
-📄 Y2K Layout Reference (raw-y2k-css.md)
-* Pristine, untouched archive of the classic Y2K "Pink Internet Diary" profile layout originally crafted by nyctokol. Archived for personal open-source use, HTML/CSS layout reference, and base theme customization..
