@@ -15,12 +15,13 @@
 
 <small>⚡ <em>Status: Separating and uploading dollz assets while releasing and updating apps</em></small>
 
-- [X] 📥 Download all dollz assets
+- [x] 📥 Download all dollz assets
 - [ ] 🗂️ Separate dollz assets
+- [ ] 📤 Upload Asset Packs for you to use on the apps! (finishing this right now)
 - [ ] 📤 Upload dollz assets to [GitHub Repository](https://github.com/meliss4m4rie/dollz-vault) / [Neocities Vault](https://empressvanta.neocities.org/dollmaker)
-- [X] 🪆✨ Create dollmakers on [Empress Vanta](https://www.empressvanta.neocities.org)
-- [X] 📱💻 Create Android and Windows apps including ultimate dollmaker
-- [X] 🍏 Build iOS (`App.app`) release archive (`v1.0.0`)
+- [x] 🪆✨ Create dollmakers on [Empress Vanta](https://www.empressvanta.neocities.org)
+- [x] 📱💻 Create Android and Windows apps including ultimate dollmaker
+- [x] 🍏 Build iOS (`App.app`) release archive (`v1.0.0`)
 
 ---
 
