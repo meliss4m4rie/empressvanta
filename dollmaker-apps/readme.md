@@ -25,10 +25,12 @@ go to releases: https://github.com/meliss4m4rie/empressvanta/releases/tag/v1.0.0
 - **Empress Vanta Neocities Portal:** https://empressvanta.neocities.org
 
 ## Windows
-- Download the Windows release package from this repository's **Releases** tab and run the executable! 
+- Download the Windows release package from this repository's **Releases** tab and run the executable!
+- https://github.com/meliss4m4rie/empressvanta/releases/tag/v1.0.0
 
 ## Android (APK)
 - Download the `.apk` release asset from this repository's **Releases** tab.
+- https://github.com/meliss4m4rie/empressvanta/releases/tag/v1.0.0
 - On your Android device, allow installation from your browser or file manager when prompted, then open the `.apk` to install.
 
 ## iOS (Unsigned Build Artifact)
