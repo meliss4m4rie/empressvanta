@@ -2,6 +2,8 @@
 
 Desktop (Windows) and Android (APK) builds for **Y2K Dollmaker Studio** and **Pocket Y2K Dollmaker**.
 
+go to releases: https://github.com/meliss4m4rie/empressvanta/releases/tag/v1.0.0 to download!
+
 ## 🛠️ studio + app features (what u can actually do!!)
 
 
