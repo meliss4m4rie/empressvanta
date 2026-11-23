@@ -2,6 +2,19 @@
 
 Desktop (Windows) and Android (APK) builds for **Y2K Dollmaker Studio** and **Pocket Y2K Dollmaker**.
 
+## 🛠️ studio + app features (what u can actually do!!)
+
+
+- 📤 **upload assets** from your device! (i'm also going to drop some asset packs for yall!)
+- 🗂️ **make new tabs:** create custom category tabs whenever u wanna organize ur own outfits, items, or room stuff!!
+- ✏️ **rename tabs / sub tabs:** switch up tab names anytime so ur categories stay cute + makes sense to u.
+- 🖱️ **drag + drop between tabs:** put an item in the wrong tab by accident? just drag n drop it into the right tab instead of starting over!!
+- 🎨 **edit assets inside the studio:** tweak + customize assets right in the studio before using or saving 'em.
+- 💾 **save edited assets** to whichever tab you want, dont like what tab it's in, drag to whichever one you'd like!
+- 🪆 **dollmaker + room maker play:** drag n drop outfits + room pieces on desktop or touch screens
+- 👆🏻 **right click / click** on the asset in the build box for the context menu!
+
+  
 ## Downloads & Related Projects
 - **iOS Build (`v1.0.0` — Unsigned `App.app` archive):** https://github.com/meliss4m4rie/y2k-dollmaker-studio-ios/releases/tag/v1.0.0
 - **Empress Vanta Web & Dollmaker Repo:** https://github.com/meliss4m4rie/empressvanta
